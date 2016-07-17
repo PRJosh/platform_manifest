@@ -5,10 +5,10 @@
   <include name="aosp.xml" />
 
   <remote  name="github"
-           fetch="https://github.com/" />
+           fetch="git://github.com/" />
 
   <remote  name="SlimRoms"
-           fetch="https://github.com/SlimRoms/"
+           fetch="git://github.com/SlimRoms/"
            review="https://review.slimroms.org/"/>
 
   <default revision="refs/tags/android-6.0.1_r52"
